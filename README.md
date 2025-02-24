@@ -23,19 +23,17 @@ I always love to talk design, so reach out and start a conversation.
 ### Connect with me!
 
 <div>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+    <a href="https://www.linkedin.com/in/spencerholladay/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35"/>
     </a>
-    <a href="https://dev.to/daria-stanilevici">
+    <a href="https://twitter.com/gotohelvetica">
         <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="35" height="35"/>
     </a>
-    <a href="https://www.credly.com/users/daria-stanilevici">
+    <a href="https://www.instagram.com/gotohelvetica/">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="35" height="35"/>
     </a>
 </div>
 
 ### Employer?
 
-<a class="dl-link" href="img/spencer_holladay_resume.pdf" download>
-							<button class="resume-dl" role="button">Download resume</button>
-						</a>
+<a href="https://www.spencerholladay.com/img/spencer_holladay_resume.pdf" download>Download resume</a>
