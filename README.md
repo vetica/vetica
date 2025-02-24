@@ -27,7 +27,7 @@ I always love to talk design, so reach out and start a conversation.
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="https://dev.to/daria-stanilevici">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="Twitter" width="35" height="35"/>
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="35" height="35"/>
     </a>
     <a href="https://www.credly.com/users/daria-stanilevici">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="35" height="35"/>
@@ -39,4 +39,3 @@ I always love to talk design, so reach out and start a conversation.
 <a class="dl-link" href="img/spencer_holladay_resume.pdf" download>
 							<button class="resume-dl" role="button">Download resume</button>
 						</a>
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
